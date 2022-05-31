@@ -1,6 +1,8 @@
 Da zaženemo aplikacijo moramo v korenski mapi aplikacije (direktorij "code") inštalirati 
 dependency manager Composer ("composer install").
 
+Do aplikacije je potrebno dostopati preko "localhost/woofer/public/".
+
 Ustvaril sem dva uporabnika:
 
 1) Email: tiln.pad0@gmail.com	geslo: novogeslo
